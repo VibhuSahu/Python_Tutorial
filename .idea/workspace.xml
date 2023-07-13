@@ -5,42 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b068795-feb9-4333-b3a9-6f3b983a00e9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python_tut.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_tut.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array and List/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array and List/part.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array and List/part0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array and List/part1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/Exercise1(Newspaper).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/bussiness-man.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/gui.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/gui0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/gui1(GUI interface intro).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/gui2(Label Geometry Maxsize &amp; Minsize).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/gui3(Displaying Images Using Labels).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/gui4(Attributes of Label &amp; Pack).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/gui6(Frames in Tkinter).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/photo1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI/python.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day1(Variable).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2(input).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp1/pytopic1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp1/pytopic3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp1/pytopic4(one-line-list).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp1/pytopic4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp1/pytopic5(for loop).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp1/pytopic6(Arithmetic Operators).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp1/pytopic7(Slicing and Indexing).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/freeCodeCamp1/pytopic8(Function).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +53,28 @@
       <recent name="$PROJECT_DIR$/Object Oriented Programming/OOpsWithProject/codeFile/Pygame1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.main (4)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_tut" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day22(Introduction to Lists in Python)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day22(Introduction to Lists in Python)/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_tut" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day23(List Methods in Python)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day23(List Methods in Python)/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day4(Our First Python Program)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/main" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day4(Our First Python Program)/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/main/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,32 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day7(Exercise 1: Calculator using Python)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day27(Exercise 3: Kaun Banega Crorepati(KBC))" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day7(Exercise 1: Calculator using Python)/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_tut" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day15(Exercise 2: Good Morning Sir Python Tutorial)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day15(Exercise 2: Good Morning Sir Python Tutorial)/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day27(Exercise 3: Kaun Banega Crorepati(KBC))/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day16(Match Case Statements in Python)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day21(Function Arguments in Python)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day16(Match Case Statements in Python)/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day21(Function Arguments in Python)/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.main (5)" />
         <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>

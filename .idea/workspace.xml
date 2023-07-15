@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b068795-feb9-4333-b3a9-6f3b983a00e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/#100DaysOfCode/main/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#100DaysOfCode/main/KBCquestions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/#100DaysOfCode/main/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +56,7 @@
       <recent name="$PROJECT_DIR$/Object Oriented Programming/OOpsWithProject/codeFile/Pygame1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (4)">
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_tut" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day22(Introduction to Lists in Python)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day34(Dictionary Methods in Python)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day22(Introduction to Lists in Python)/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day34(Dictionary Methods in Python)/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day23(List Methods in Python)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day38(Raising custom errors in Python)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day23(List Methods in Python)/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day38(Raising custom errors in Python)/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day32(Sets Methods in Python)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/main/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day32(Sets Methods in Python)/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_tut" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day27(Exercise 3: Kaun Banega Crorepati(KBC))" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day35(for Loop with else in Python)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day27(Exercise 3: Kaun Banega Crorepati(KBC))/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day35(for Loop with else in Python)/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day21(Function Arguments in Python)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#100DaysOfCode/Day33(Dictionaries in Python)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day21(Function Arguments in Python)/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#100DaysOfCode/Day33(Dictionaries in Python)/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (5)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>

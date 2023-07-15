@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Translator</title>
+    <style>
+        /* Add your custom CSS styles here */
+    </style>
+</head>
+<body>
+    <h1>Translator</h1>
+    <textarea id="input-text" rows="4" cols="50"></textarea>
+    <button onclick="translate()">Translate</button>
+    <h2>Translation Result:</h2>
+    <div id="output-text"></div>
+
+    <script>
+        function translate() {
+            var inputText = document.getElementById("input-text").value;
+
+            fetch('/translate', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ text: inputText })
+            })
+            .then(response => response.json())
+            .then(data => {
+                var outputDiv = document.getElementById("output-text");
+                outputDiv.innerText = data.translation;
+            })
+            .catch(error => console.error('Error:', error));
+        }
+    </script>
+</body>
+</html>

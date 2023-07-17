@@ -1,23 +1,20 @@
-from flask import Flask, render_template, request
-from googletrans import Translator
+import os
 
-app = Flask(__name__)
+# Get the path of the current script
+script_path = os.path.abspath(__file__)
 
+# Get the directory containing the script
+script_directory = os.path.dirname(script_path)
 
-@app.route('/')
-def index():
-    return render_template('index.html')
-
-
-@app.route('/translate', methods=['POST'])
-def translate():
-    translator = Translator()
-    data = request.get_json()
-    text = data['text']
-    result = translator.translate(text, dest="en")  # Translate to English, change "en" to your desired language code
-
-    return {'translation': result.text}
+print("Current script path:", script_path)
+print("Current script directory:", script_directory)
 
 
-if __name__ == '__main__':
-    app.run()
+
+# Get the current working directory
+current_directory = os.getcwd()
+
+# Get the parent folder path
+parent_directory = os.path.dirname(current_directory)
+
+print("Parent folder path:", parent_directory)

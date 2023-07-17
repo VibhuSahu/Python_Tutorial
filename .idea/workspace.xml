@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b068795-feb9-4333-b3a9-6f3b983a00e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/#100DaysOfCode/main/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/#100DaysOfCode/main/KBCquestions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/#100DaysOfCode/main/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
